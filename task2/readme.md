@@ -12,17 +12,10 @@ In research, we often deal with unstructured text such as:
 
 ## Your Task
 - Choose **one type of unstructured text** of your choice.  
-- Using **only basic Python** (`strings`, `lists/tuples`, `dictionaries/sets`, `loops`, `conditionals`, `functions`), write a program that **extracts useful information** from the text.  
+- Write a program that **extracts useful information** from the text.  
 - Present the result in a **structured format**.  
 
----
 
-## Rules & Constraints
-- Allowed:  
-  - Core Python constructs: **strings, lists, tuples, dictionaries, sets, loops, conditionals, functions**  
-- Not allowed:  
-  - External libraries  
-  - ML/NLP toolkits  
 
 ---
 
