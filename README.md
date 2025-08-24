@@ -11,7 +11,7 @@ The **DJSCE ACM Research Club** is a community of researchers dedicated to:
 ---
 
 ### Guidelines
-- **No LLMs allowed** (ChatGPT, Claude, etc.)  
+- **No LLMs allowed** (ChatGPT, Claude, etc; if you really want to, host mistral via ollama and we'll allow it)
 - Focus on **clean and readable code**  
 - Ensure your solution works with the **provided examples**  
 - Referring to **Python documentation** for syntax help is permitted  
